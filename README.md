@@ -6,3 +6,5 @@ Hallo babies! Welcome to physics project. Very good
 johannes = mean
 
 hei
+
+bjørn er menneske, what, lol
