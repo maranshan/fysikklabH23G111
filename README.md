@@ -8,3 +8,5 @@ johannes = mean
 hei
 
 bjørn er menneske, what, lol
+
+WOOO AHHAAHAH
